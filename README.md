@@ -1,2 +1,2 @@
-Jeu 2D inspiré de minecraft.
+2D game inspired by Minecraft.
 ![alt text](screen.PNG)
